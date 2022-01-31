@@ -5,7 +5,7 @@ go:
 
 install:
   - go get "github.com/sec51/qrcode"
-  - go get "github.com/sec51/cryptoengine"
+  - go get "github.com/Traverse-Care/cryptoengine"
   - go get "github.com/sec51/convert/smallendian"
 
 script:
