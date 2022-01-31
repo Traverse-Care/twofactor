@@ -1,5 +1,5 @@
-hash: 67c2f41ef52cb9ab83919d5c932d976d75840da97a3371c1185ccff95c3bb1a4
-updated: 2022-01-31T02:46:30.240618-05:00
+hash: 1d8d386841cefef156a5fc0d0b7455d1e9b22f6e4643e02650f8ca23bd511366
+updated: 2022-01-31T03:20:23.9834-05:00
 imports:
 - name: github.com/sec51/convert
   version: 3276ac712ca35cb9cc9a823b564fdaf89f4ac803
@@ -13,7 +13,7 @@ imports:
   subpackages:
   - coding
 - name: github.com/Traverse-Care/cryptoengine
-  version: 18117b68a66a5b390b2fb6bc2516529cfdd59ea9
+  version: 3fe9c2db4fe73fb135e0cec9b9be6b8b1faa8d79
 - name: golang.org/x/crypto
   version: beef0f4390813b96e8e68fd78570396d0f4751fc
   subpackages:

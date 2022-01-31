@@ -6,7 +6,7 @@ import:
   - bigendian
   - smallendian
 - package: github.com/Traverse-Care/cryptoengine
-  version: 0.0.2
+  version: 0.0.3
 - package: github.com/sec51/gf256
   version: 2454accbeb9e6b0e2e53b01e1d641c7157251ed4
 - package: github.com/sec51/qrcode
