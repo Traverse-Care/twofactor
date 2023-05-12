@@ -3,7 +3,7 @@ module github.com/sec51/twofactor
 go 1.18
 
 require (
-	github.com/Traverse-Care/cryptoengine v0.0.0-20161018113558-11617a465c08
+	github.com/Traverse-Care/cryptoengine v0.0.0-20230512221813-ffe9ed96ae0e
 	github.com/sec51/convert v1.0.2
 	github.com/sec51/qrcode v0.0.0-20160126144534-b7779abbcaf1
 )
